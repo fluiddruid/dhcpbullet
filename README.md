@@ -1,2 +1,2 @@
 # DHCPBullet
-A Pushbullet notifier for dnsasq written in Python
+A Pushbullet notifier for dnsmasq written in Python.
